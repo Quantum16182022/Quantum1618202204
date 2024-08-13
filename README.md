@@ -49,10 +49,9 @@
         <section>
             <h2>My Projects</h2>
             <ul>
-                <li><a href="https://github.com/Quantum16182022/project1">Project 1</a> - A brief description of what this project is about.</li>
-                <li><a href="https://github.com/Quantum16182022/project2">Project 2</a> - A brief description of what this project is about.</li>
-                <li><a href="https://github.com/Quantum16182022/project3">Project 3</a> - A brief description of what this project is about.</li>
-            </ul>
+                <li><a href="https://github.com/Quantum16182022/W_S7_Challenge"</a> - Use of React Router, creating forms with proper validation, and testing React components.</li>
+                <li><a href="https://github.com/bloominstituteoftechnology/sprint-5-challenge-Quantum16182022"</a> - Manipulating the DOM using JavaScript by fetching data from the network </li>
+                <li><a href="https://github.com/bloominstituteoftechnology/module-project-side-effects-Quantum16182022"</a> - Built a simple Instagram clone using React.</li>
         </section>
         <section>
             <h2>Contact Me</h2>
